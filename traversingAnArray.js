@@ -11,3 +11,6 @@ function myFunction() {
 }
 
 myFunction();
+
+// Output
+// position 0 = Cristina position 1 = Carlos position 2 = Nayeli position 3 = Kike
